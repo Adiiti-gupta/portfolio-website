@@ -1,8 +1,8 @@
-# Personal Portfolio Website
+# AditiBuilds - Personal Portfolio Website
 
 A modern personal portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and contact information. The site includes a fully functional contact form powered by Formspree.
 
-🔗 **Live Demo:** https://your-deployment-link-here.com  
+🔗 [AditiBuilds](https://aditibuilds.netlify.app/)
 
 ---
 
@@ -30,5 +30,4 @@ A modern personal portfolio website built with HTML, CSS, and JavaScript to show
 
 ---
 
-## Getting Started
 
